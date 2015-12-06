@@ -39,7 +39,21 @@ img{
 	margin-bottom: 40px;
 }
 
-<<<<<<< HEAD
+#titleform {
+	background-color: transparent;
+  	font-family: 'Neon';
+  	color: #EB219B;
+  	-webkit-text-fill-color: rgba(253, 90, 250, 1);
+  	text-shadow: -2px -2px 0 #FFBAF2;
+  	-webkit-filter: drop-shadow(3px 3px 1px #441F62);
+  	font-weight: normal;
+  	font-size: 20px;
+  	z-index: 2;
+  	margin-bottom: 5px;
+	margin-left: 0.4em;
+}
+
+
 /* Subscribe button */
 #mc_embed_signup .button {
 	height: 3em;
@@ -66,23 +80,7 @@ img{
 #mc_embed_signup_scroll {
 	width: 30%;
 }
-=======
 
->>>>>>> 3136ef4d6ed76aba6922c5b5c02e83b74240d2ff
-/* Subscribe Title Font */
-#mc_embed_signup_scroll > div:nth-child(1) > label:nth-child(1) {
-	background-color: transparent;
-  	font-family: 'Neon';
-  	color: #EB219B;
-  	-webkit-text-fill-color: rgba(253, 90, 250, 1);
-  	text-shadow: -2px -2px 0 #FFBAF2;
-  	-webkit-filter: drop-shadow(3px 3px 1px #441F62);
-  	font-weight: normal;
-  	font-size: 20px;
-  	z-index: 2;
-  	margin-bottom: 5px;
-	margin-left: 0.4em;
-}
 
 
 .future {
