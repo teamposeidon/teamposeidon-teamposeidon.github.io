@@ -71,9 +71,12 @@ img{
 	margin:0 0 10px 0; 
 	background-color: turquoise;
 	color: purple;
+
 }
 #mc_embed_signup_scroll {
 	width: 30%;
+	margin-left: 0.4em;
+
 }
 
 
@@ -87,7 +90,6 @@ img{
   	font-size: 150%;
   	z-index: 2;
   	margin-bottom: 5px;
-	margin-left: 0.4em;
 }
 
 
