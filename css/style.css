@@ -1,0 +1,97 @@
+@font-face {
+    font-family: "Neon";
+    src: url(neon.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Modular";
+    src: url(modular.ttf) format("truetype");
+}
+
+
+body {
+background: url('https://45.media.tumblr.com/tumblr_m0lhf2CbqS1qh3v5mo1_500.gif');
+}
+
+div.jumbotron {
+		background-color: black;
+	background: url('../img/background.png');
+	border-color: turquoise;
+	margin-top: -10px;
+	border-width: 1px;
+	border-style: solid;
+    box-shadow: 0 0 10px #9ecaed;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+    color: #EB219B;
+    padding: 5px;
+}
+
+
+img{
+	height: 500px;
+	width: 500px;
+	padding-top: 20px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+}
+
+<<<<<<< HEAD
+/* Subscribe button */
+#mc_embed_signup .button {
+	height: 3em;
+	height: 10%;
+	width: 5em;
+	border-width: 2px;
+	border-radius: 5px;
+	color: pink;
+	font-family: 'Neon';
+}
+
+/* Email address input */
+#mc_embed_signup input.email {
+	display:block; padding:8px 0; 
+	margin:0 4% 10px 0; 
+	text-indent:5px;
+	width: 20%;
+}
+#mc_embed_signup input.button {
+	display:block; 
+	width:35%; 
+	margin:0 0 10px 0; 
+}
+#mc_embed_signup_scroll {
+	width: 30%;
+}
+=======
+
+>>>>>>> 3136ef4d6ed76aba6922c5b5c02e83b74240d2ff
+/* Subscribe Title Font */
+#mc_embed_signup_scroll > div:nth-child(1) > label:nth-child(1) {
+	background-color: transparent;
+  	font-family: 'Neon';
+  	color: #EB219B;
+  	-webkit-text-fill-color: rgba(253, 90, 250, 1);
+  	text-shadow: -2px -2px 0 #FFBAF2;
+  	-webkit-filter: drop-shadow(3px 3px 1px #441F62);
+  	font-weight: normal;
+  	font-size: 20px;
+  	z-index: 2;
+  	margin-bottom: 5px;
+	margin-left: 0.4em;
+}
+
+
+.future {
+	font-family: 'Neon'; 
+	color: #EB219B;
+	-webkit-text-fill-color: rgba(253, 90, 250, 1);
+  	text-shadow: -2px -2px 0 #FFBAF2;
+  	-webkit-filter: drop-shadow(3px 3px 1px #441F62);
+  	-webkit-transform: skew(-5deg,-5deg);
+  	font-weight: normal;
+  	z-index: 2;
+}
